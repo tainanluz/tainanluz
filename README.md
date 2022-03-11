@@ -25,6 +25,7 @@
     <a href="https://github.com/tainanluz"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tainanluz&layout=compact&langs_count=7&theme=dracula"/>
     <img align="right"alt="Tai-Icon" height="400"  src="https://cdn.discordapp.com/attachments/892048100582109274/951642932182663221/conifer-190.png">
     <br>
+    <br>
     <a href="https://instagram.com/tainanluz" target="_blank"><img align="right" height="40" src="https://cdn.discordapp.com/attachments/892048100582109274/951642933621317662/instagram.png" target="_blank"></a> 
     <a href="https://www.linkedin.com/in/tainan-luz" target="_blank"><img align="right" height="40" src="https://cdn.discordapp.com/attachments/892048100582109274/951642934023954462/linkedin.png" target="_blank"></a> 
 </div>
