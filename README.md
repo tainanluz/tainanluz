@@ -1,7 +1,7 @@
-### Olá ! Sou a Tainan Luz, Desenvolvedora Full-Stack Jr. Bem-vindx 👋
+### Olá ! Sou a Tainan Luz, Desenvolvedora BackEnd Pleno 👋
 
 - 🎓 Estudando Engenharia de Software
-- 💻 Disponível para propostas de trabalho 
+- 💻 Atuando no time de desenvolvimento do BDMG
 
 <br>
 <div >
