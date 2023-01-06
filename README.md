@@ -1,7 +1,7 @@
 ### Olá ! Sou a Tainan Luz, Desenvolvedora BackEnd Pleno 👋
 
 - 🎓 Estudando Engenharia de Software
-- 💻 Atuando no time de desenvolvimento do BDMG
+- 💻 Atuando no time de desenvolvimento backend do BDMG
 
 <br>
 <div >
